@@ -1,0 +1,1 @@
+Specifically, we extract meta-relations to capture the semantics of non-specific graph structures. Moreover, for multimodal information with significant distribution differences across graphs, we propose class-adaptive prototype learning to model compact and distinctive multimodal representations via prototype regularization and entity-prototype alignment. 
