@@ -4,7 +4,8 @@
 <p align="center">
   <img src="IndMKG.jpg" alt="IndMKG" width="1000">
 </p>
-The overall architecture of the IndMKG model.
+
+<p align="center"> The overall architecture of the IndMKG model. </p>
 
 ## 🎆Requirments
 - Python==3.10
