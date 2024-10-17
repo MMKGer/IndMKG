@@ -19,7 +19,7 @@ Our experiments were conducted on NVIDIA RTX L20 GPUs with 48GB of RAM. We confi
 
 ## 🤝Result 
 <p align="center">
-  <img src="Reslt.jpg" alt="IndMMKG" width="1000">
+  <img src="Result.jpg" alt="Result" width="1000">
 </p>
 
 ## Citation
