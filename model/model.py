@@ -21,12 +21,6 @@ class IndMKG(nn.Module):
                                                   clusters_img=clusters_img, cluster_centers_img=cluster_centers_img ,modality="all")
         return score
 
-class GetRepresentations(torch.nn.Module):
-###
-###
-###
-        return text_feature, clusters_text, cluster_centers_text, img_feature, clusters_img, cluster_centers_img
-
 
 class Relationmodel(Basemodel):
 
@@ -92,6 +86,12 @@ class Entitymodel(Basemodel):
 #######
 #######
         return score
+
+class GetRepresentations(torch.nn.Module):
+###
+###
+###
+        return text_feature, clusters_text, cluster_centers_text, img_feature, clusters_img, cluster_centers_img
 
 class ClusterCentersAdjuster(torch.nn.Module):
 #######
