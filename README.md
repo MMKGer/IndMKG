@@ -2,7 +2,7 @@
 
 ## Overview
 <p align="center">
-  <img src="model.jpg" alt="IndMMKG" width="1000">
+  <img src="IndMKG.jpg" alt="IndMKG" width="1000">
 </p>
 The overall architecture of the IndMKG model.
 
@@ -19,7 +19,7 @@ Our experiments were conducted on NVIDIA RTX L20 GPUs with 48GB of RAM. We confi
 
 ## 🤝Result 
 <p align="center">
-  <img src="model.jpg" alt="IndMMKG" width="1000">
+  <img src="Reslt.jpg" alt="IndMMKG" width="1000">
 </p>
 
 ## Citation
